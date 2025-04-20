@@ -62,8 +62,8 @@ This project leverages machine learning to predict airline ticket prices based o
 
 1. 📥 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flight-price-prediction.git
-   cd flight-price-prediction
+   git clone https://github.com/Suresh-1516/Flight-Price-Prediction.git
+   cd Flight-Price-Prediction
    ```
 
 2. 🧪 Install dependencies:
