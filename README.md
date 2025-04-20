@@ -101,4 +101,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you want a **Streamlit web app**, **dashboard version**, or a cool **project demo GIF** to include in the repo too!
